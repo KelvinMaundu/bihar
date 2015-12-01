@@ -1,2 +1,2 @@
 # bihar
-JSON format for DCA bihar excel data 
+JSON format for DanChurchAid bihar excel data 
